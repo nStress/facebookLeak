@@ -11,12 +11,14 @@ This is a Python application with a graphical user interface (GUI) built using `
 - **Data Export:** Export filtered results to a text file or CSV format.
 - **Multi-encoding Support:** The application attempts to read files with several common encodings to prevent errors.
 
-## Screenshots
-
 
 ## Leak Download
 
-[Can you download  there](magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d)
+```magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d```
+
+
+## Screenshots
+
 
 **Search Results**
 ![Search Results](https://i.imgur.com/K8NN04L.png)
